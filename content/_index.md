@@ -6,6 +6,6 @@ draft: false
 
 ### Hiya!
 
-My name is Marina. I am sosososososo pretty and cool!
+This is my website!
 
 ### Site index:

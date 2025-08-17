@@ -5,4 +5,4 @@ draft: false
 ---
 
 ## 2025
-> Full-time Cutie
+> Accepted into University of Edinburgh for Masters.
